@@ -1,5 +1,3 @@
-[[LMS]]
-
 **Last Man Standing in the English Premier League (EPL) - An Optimization Problem with Lives**
 
 The Last Man Standing game is a strategic optimization challenge played within the context of the English Premier League (EPL) matches. The objective is to create a model that makes the most informed choices across a series of football matches, with the provision of 3 lives for each player.

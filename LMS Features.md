@@ -1,4 +1,4 @@
-[[LMS]]
+## Features for ML Model
 
 1. **Team Performance Metrics**:
    - **Recent Form**: Win-loss record of the last 5 or 10 matches.

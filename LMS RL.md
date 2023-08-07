@@ -1,5 +1,3 @@
-[[LMS]]
-
 ## LMS Reinforcement Learning Model
 
 
